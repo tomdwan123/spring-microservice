@@ -6,12 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="lab-3-client-solution" />
+        <module name="lab-3-server-solution" />
         <module name="lab-1-boot-solution" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-demo" target="17" />
       <module name="lab-1-boot-solution" target="1.8" />
+      <module name="lab-3-client-solution" target="1.8" />
+      <module name="lab-3-server-solution" target="1.8" />
       <module name="spring-microservice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -19,6 +23,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="common-demo" options="-parameters" />
       <module name="lab-1-boot-solution" options="-parameters" />
+      <module name="lab-3-client-solution" options="-parameters" />
+      <module name="lab-3-server-solution" options="-parameters" />
       <module name="spring-microservice" options="" />
     </option>
   </component>

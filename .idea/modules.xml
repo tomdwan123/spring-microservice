@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lab-1/boot-solution/lab-1-boot-solution.iml" filepath="$PROJECT_DIR$/lab-1/boot-solution/lab-1-boot-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3/client-solution/lab-3-client-solution.iml" filepath="$PROJECT_DIR$/lab-3/client-solution/lab-3-client-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3/server-solution/lab-3-server-solution.iml" filepath="$PROJECT_DIR$/lab-3/server-solution/lab-3-server-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-microservice.iml" filepath="$PROJECT_DIR$/.idea/spring-microservice.iml" />
     </modules>
   </component>
