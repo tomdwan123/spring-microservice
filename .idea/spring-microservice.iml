@@ -37,8 +37,8 @@
       <excludeFolder url="file://$MODULE_DIR$/common/demo/src/test/java/com/phucdevs" />
       <excludeFolder url="file://$MODULE_DIR$/common/demo/src/test/java/com" />
       <excludeFolder url="file://$MODULE_DIR$/common/demo/src/test/java" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/httpRequests" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
