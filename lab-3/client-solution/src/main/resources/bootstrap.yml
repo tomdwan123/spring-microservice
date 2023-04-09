@@ -10,7 +10,7 @@ spring:
     import: "optional:configserver:http://localhost:8001"       # Where should we call the config server at?
 
 server:
-  port:8002                                                     # What port should we expose for our web interface
+  port: 8002                                                     # What port should we expose for our web interface
 
 # Uncomment these lines to activate "northamerica" as the active profile.
 # Ordinarily we would not activate a profile from within a property file, but this is just a demo:
