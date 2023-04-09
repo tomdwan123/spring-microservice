@@ -12,7 +12,6 @@
 	<description>Quick way to build / test all of the other projects.</description>
 
 	<modules>
-		<module>common/demo</module>
 		<module>lab-1/boot-solution</module>
 	</modules>
 

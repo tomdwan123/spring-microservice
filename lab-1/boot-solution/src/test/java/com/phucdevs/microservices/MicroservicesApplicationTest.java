@@ -1,10 +1,10 @@
 package com.phucdevs.microservices;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroservicesApplicationTest {
+public class MicroservicesApplicationTest {
 
     @Test
     public void contextLoad() {

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/common/demo/common-demo.iml" filepath="$PROJECT_DIR$/common/demo/common-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab-1/boot-solution/lab-1-boot-solution.iml" filepath="$PROJECT_DIR$/lab-1/boot-solution/lab-1-boot-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-microservice.iml" filepath="$PROJECT_DIR$/.idea/spring-microservice.iml" />
     </modules>

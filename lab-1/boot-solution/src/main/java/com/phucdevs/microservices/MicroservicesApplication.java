@@ -1,15 +1,12 @@
 package com.phucdevs.microservices;
 
-import com.phucdevs.microservices.demo.Player;
-import com.phucdevs.microservices.demo.Team;
-import com.phucdevs.microservices.demo.TeamRepository;
-import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
+import javax.annotation.PostConstruct;
 import java.util.HashSet;
 import java.util.Set;
 

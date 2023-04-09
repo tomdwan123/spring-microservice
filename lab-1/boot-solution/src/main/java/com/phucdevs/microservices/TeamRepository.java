@@ -1,4 +1,4 @@
-package microservices.demo;
+package com.phucdevs.microservices;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
