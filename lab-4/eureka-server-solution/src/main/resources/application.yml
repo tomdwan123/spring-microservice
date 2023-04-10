@@ -1,0 +1,8 @@
+---
+# This default profile is used when running a single instance completely standalone:
+spring:
+  config:
+    activate:
+      on-profile: default
+server:
+  port: 8010
