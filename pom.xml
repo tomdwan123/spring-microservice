@@ -18,6 +18,7 @@
 		<module>lab-3/server-solution</module>
 
 		<module>lab-4/eureka-server-solution</module>
+		<module>lab-4/eureka-client-solution</module>
 	</modules>
 
 </project>

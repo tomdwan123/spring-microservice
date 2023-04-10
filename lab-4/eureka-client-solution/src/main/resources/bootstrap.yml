@@ -1,0 +1,49 @@
+# Depending on which profile is active, the application gives
+# itself a different name when registering with Eureka
+---
+spring:
+  config:
+    activate:
+      on-profile: sentence
+  application:
+    name: lab-4-sentence
+
+---
+spring:
+  config:
+    activate:
+      on-profile: subject
+  application:
+    name: lab-4-subject
+
+---
+spring:
+  config:
+    activate:
+      on-profile: verb
+  application:
+    name: lab-4-verb
+
+---
+spring:
+  config:
+    activate:
+      on-profile: article
+  application:
+    name: lab-4-article
+
+---
+spring:
+  config:
+    activate:
+      on-profile: adjective
+  application:
+    name: lab-4-adjective
+
+---
+spring:
+  config:
+    activate:
+      on-profile: noun
+  application:
+    name: lab-4-noun
